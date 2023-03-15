@@ -150,7 +150,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://ecommerce.appdev.my.id'
+    baseURL: 'https://nuxt.yanafriyoko.com'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
