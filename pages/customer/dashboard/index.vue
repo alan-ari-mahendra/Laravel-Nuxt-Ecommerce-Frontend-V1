@@ -16,7 +16,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="alert alert-success" role="alert">
-                  Selamat Datang <strong>{{ $auth.user.name }}</strong>
+                  Selamat Datang Paduka <strong>{{ $auth.user.name }}</strong>
                 </div>
               </div>
             </div>
